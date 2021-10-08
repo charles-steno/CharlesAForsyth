@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CharlesAForsyth
+- 👀 I’m interested in front-end software engineering and improving the litigation process.
+- 🌱 I’m currently learning everything I can about the hottest web technologies.
